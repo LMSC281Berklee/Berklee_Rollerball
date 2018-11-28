@@ -1,0 +1,15 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.unity_tutorial_roller_ball.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "strings": {
+        "en_us": {
+          "name": "Unity_Tutorial_Roller_Ball [Testing]"
+        }
+      }
+    }
+  ]
+}
